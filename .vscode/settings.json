@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "python.linting.enabled": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true
+}
